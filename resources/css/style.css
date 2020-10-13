@@ -2,7 +2,25 @@ body {
     background-color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
-    font-size: 50px;
+    font-size: 50 px;
     color: white;
-    justify-items: center;
+    text-align: center;
+}
+a {
+    color: aquamarine;
+    font-size: 16 px;
+}
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 42 px;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-size: 21 px;
+}
+footer {
+    text-align: right;
+    color: gray;
 }
